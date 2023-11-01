@@ -4,7 +4,7 @@
 
 # - Introducción
 
-Proyecto realizado en la asignatura de ***Arquitectura de Computadores*** del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra subido en el repositorio en un archivo PDF llamado <a href="https://github.com/rmelgo/ARQ-Optimizacion-ensamblador-DLX/blob/main/Enunciado.pdf" target="_blank">*enunciado.pdf*</a>.
+Proyecto realizado en la asignatura de ***Arquitectura de Computadores*** del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra subido en el repositorio en un archivo PDF llamado <a href="https://github.com/rmelgo/ARQ-Optimizacion-ensamblador-DLX/blob/main/Enunciado.pdf" target="_blank">*Enunciado.pdf*</a>.
   
 El principal objetivo de este proyecto es la realización de un programa en lenguaje ensamblador que realice una serie de cálculos matemáticos, de la manera más eficiente posible, utilizando el menor número de ciclos de reloj posibles.
 Por tanto, el propósito fundamental es utilizar disintas técnicas optimización y paralelización para reducir al máximo posible los ciclos de reloj necesarios para hacer los cálculos matemáticos de manera correcta.
